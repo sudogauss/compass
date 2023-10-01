@@ -1,0 +1,1 @@
+# Keeper file for third-party find*.cmake

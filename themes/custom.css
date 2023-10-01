@@ -1,0 +1,54 @@
+html {
+
+    /*--primary-color: #009eff;
+    --primary-dark-color: #9e86c8;
+    --primary-light-color: #00e6ff;
+
+    /* page base colors */
+    /* --page-background-color: #2e2e2e;
+    --page-foreground-color: #d6d6d6;
+    --page-secondary-foreground-color: #b4d273;
+
+    --fragment-background:  #001d07;
+    --code-background: #002547;
+
+    --side-nav-foreground: #333;
+    --header-foreground: #000;
+
+    --top-height: 18vh; */
+
+    /* color for all separators on the website: hr, borders, ... */
+    /* --separator-color: #dedede; */
+
+    /* border radius for all rounded components. Will affect many components, like dropdowns, memitems, codeblocks, ... */
+    /* --border-radius-large: 15px;
+    --border-radius-small: 6px;
+    --border-radius-medium: 10px; */
+
+    /* default spacings. Most components reference these values for spacing, to provide uniform spacing on the page. */
+    /* --spacing-small: 6px;
+    --spacing-medium: 12px;
+    --spacing-large: 20px; */
+
+    /* default box shadow used for raising an element above the normal content. Used in dropdowns, search result, ... */
+    /*--box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;*/
+
+    /*--odd-color: rgba(0, 0, 0, .028);*/
+}
+
+table.memberdecls .mdescLeft {
+    display: none !important;
+}
+
+table.memberdecls .memItemLeft {
+    display: none !important;
+}
+
+table.memberdecls .memItemRight {
+    border-left: 1px solid var(--separator-color);
+    padding-left: 5px;
+}
+
+table.memberdecls .memTemplItemLeft {
+    text-align: start;
+}
