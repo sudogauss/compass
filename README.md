@@ -1,1 +1,1 @@
-# compass
+# COMPASS
