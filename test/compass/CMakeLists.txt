@@ -3,4 +3,4 @@
 # Proprietary
 # Written by sudogauss
 
-add_subdirectory(compass)
+add_subdirectory(physics)

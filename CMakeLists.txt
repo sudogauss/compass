@@ -1,3 +1,8 @@
+# Copyright (C) sudogauss - All Rights Reserved
+# Unauthorized copying of this file, via any medium is strictly prohibited
+# Proprietary
+# Written by sudogauss
+
 ################################################################################
 ## read version
 
@@ -24,13 +29,13 @@ list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_LIST_DIR}/cmake/third-party")
 
 include(cmake/declarations.cmake)
 include(cmake/extra_flags.cmake)
-include(cmake/toolchain.cmake)
+#include(cmake/toolchain.cmake)
 include(cmake/ccache.cmake)
 
 ################################################################################
 ## CMake utils functions
 
-include(cmake/functions.cmake)
+#include(cmake/functions.cmake)
 
 ################################################################################
 ## CMake options and dependencies

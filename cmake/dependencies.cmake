@@ -5,7 +5,7 @@ if(BUILD_BENCHMARKS)
   find_package(benchmark QUIET)
 endif()
 
-find_package(Boost REQUIRED COMPONENTS date_time filesystem graph system thread program_options)
+find_package(Boost REQUIRED COMPONENTS date_time filesystem graph system thread math)
 
 if(ENABLE_TESTING)
   find_package(GTest QUIET)

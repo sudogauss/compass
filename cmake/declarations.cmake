@@ -2,7 +2,7 @@
 ## global declarations
 
 set(PROJECT_VENDOR "sudogauss")
-set(PROJECT_DESCRIPTION "UAVIA Embe")
+set(PROJECT_DESCRIPTION "Path finding library")
 set(CMAKE_PACKAGE_NAME "${PROJECT_NAME}")
 set(CMAKE_PACKAGE_TARGETS "${CMAKE_PACKAGE_NAME}Targets")
 set(LIBVERSION ${PROJECT_VERSION_MAJOR})
